@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KinanRadaideh
 - 👀 I’m interested in ... DataSci & AI
-- 🌱 I’m currently learning ... Flutter
+- 🌱 I’m currently learning ... Unity & C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
